@@ -14,7 +14,6 @@
 
 
 ### 프로젝트를 통해 배운 항목들
-```
 >component : HTML을 반환하는 함수
 >>component를 다루는 방법(만들기, 적용하기)
 
@@ -34,5 +33,4 @@
 >>>component가 죽는 것.
 >>>>componentWillUnmount().
 
-```
 
