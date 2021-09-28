@@ -5,7 +5,7 @@
 --------------------------------------
 ```
 
-배포 https://chominho14.github.io/movie_app_2021/
+배포 : https://chominho14.github.io/movie_app_2021/
 
 ```
 ### 프로젝트 계획이유
