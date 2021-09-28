@@ -1,3 +1,16 @@
-#Movie App 2021
+## Movie App 2021 v1
+--------------------------------------
+- react JS Fundamentals Course (2021)
 
-react JS Fundamentals Course (2021)
+
+--------------------------------------
+```
+### 프로젝트 계획이유
+>리액트에 대한 지식을 습득하기 위한 첫 단계라고 생각이 들어 시작하게 되었습니다.
+
+```
+```
+
+배포 https://chominho14.github.io/movie_app_2021/
+
+```
