@@ -21,19 +21,19 @@
 
 +component life cycle
 
-++Mounting - component 생성
-+++constructor()
-++++js에서 class를 만들 때 호출되는 것.
-++++component가 mount될 때 호출 된다.
-+++componentDidMount()
-++++component가 처음 render될 때 호출 된다.
+  +Mounting - component 생성
+    +constructor()
+    +js에서 class를 만들 때 호출되는 것.
+    +component가 mount될 때 호출 된다.
+  +componentDidMount()
+    +component가 처음 render될 때 호출 된다.
 
-++updating
-+++componentDidUpdate()
-++++component가 업데이트 될 때 호출 된다.
+ +updating
+    +componentDidUpdate()
+      +component가 업데이트 될 때 호출 된다.
 
-++unmounting
-+++component가 죽는 것.
-++++componentWillUnmount().
+ +unmounting
+    +component가 죽는 것.
+      +componentWillUnmount().
 
 
